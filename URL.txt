@@ -1,0 +1,7 @@
+
+
+//Rich Card
+https://docs.microsoft.com/zh-cn/bot-framework/dotnet/bot-builder-dotnet-add-rich-card-attachments
+
+//debug
+https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator
